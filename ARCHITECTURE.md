@@ -24,7 +24,7 @@ trading-bot/
     ├── UpbitTopCoinList.json   추적할 코인 목록
     ├── AltATypeCoin.json       단타 A타입 후보
     ├── AltBTypeCoin.json       단타 B타입 후보
-    ├── DolPaCoin.json          ? (별도 카테고리)
+    ├── special-category.json   별도 카테고리 (사용자 정의)
     ├── MaUpDict.json           이동평균 상태 dict
     └── RevenueDict.json        수익 누적 dict (상태 저장)
 ```
